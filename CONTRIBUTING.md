@@ -12,7 +12,7 @@ All contributions, bug reports, bug fixes, documentation improvements, enhanceme
 6. Push your branch to your fork.
 7. Open a pull request.
 
-Guidelines
+Guidelines:
 
 Please make sure your contributions are clear, relevant, and consistent with the project.
 
