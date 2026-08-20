@@ -16,8 +16,11 @@ The calculator accepts the following inputs:
 
 It then calculates simple interest using the formula:
 
-Simple Interest = (Principal × Rate × Time) / 100
+Simple Interest = (Principal * Rate * Time) / 100
 
 ## Author
 
 devhamza10-create
+
+
+
